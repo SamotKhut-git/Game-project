@@ -14,7 +14,7 @@
                 <label class="block" for="InputType">Type</label>
                 <input class="w-full h-8" type="text"  name="pizzaType" placeholder="Enter type">
             </div>
-
+           <div><p>Heloo</p></div>
             <div class="form-group mb-2">
                 <label class="block" for="Inputprice">price</label>
                 <input class="w-full h-8" type="text"  name="pizzaPrice" placeholder="Enter price">
