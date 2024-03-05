@@ -13,7 +13,8 @@ use App\Http\Controllers\PizzaController;
 |
 */
 
-Route::get("/",[PizzaController::class, 'index']);
+Route::get("/",[PizzaController::class, 'home']);
+Route::get('/{id}',[PizzaController::class, 'form']);
 Route::post("/{id}", [PizzaController::class, 'add']);
 Route::post("/{id}", [PizzaController::class, 'add']);
 // Route::post('/addtopping', PizzaController::class)->name("add");			

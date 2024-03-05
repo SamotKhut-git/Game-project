@@ -1,9 +1,9 @@
 @extends('layouts.layouts')
 @section('container')
 <div class="container grid grid-cols-2 gap-10 ">
+     <!-- Form for add any pizza to database -->
     <div >
         <h1 class=" text-2xl text-yellow-500 text-center font-bold ">Add Pizza</h1>
-        <!-- Form for add any pizza to database -->
         <form class="p-8 bg-gray-100 shadow-lg rounded-lg mt-2" method="POST" action="/addpizza" >
             @csrf
             <div class="mb-2">
@@ -14,7 +14,6 @@
                 <label class="block" for="InputType">Type</label>
                 <input class="w-full h-8" type="text"  name="pizzaType" placeholder="Enter type">
             </div>
-           <div><p>Heloo</p></div>
             <div class="form-group mb-2">
                 <label class="block" for="Inputprice">price</label>
                 <input class="w-full h-8" type="text"  name="pizzaPrice" placeholder="Enter price">
@@ -42,10 +41,6 @@
             <div class="form-group mb-2">
                 <label class="block" for="InputPrice">Topping price</label>
                 <input type="text" class="w-full h-8" name="toppingPrice" placeholder="Enter price">
-            </div>
-            <div class="form-group mb-2">
-                <label class="block" for="InputToppingimage url">Topping image</label>
-                <input type="file" class="w-full h-8" name="toppingImage">
             </div>
             <button type="submit" class="bg-blue-700 text-white font-bold w-20 rounded-lg">Submit</button>
         </form>

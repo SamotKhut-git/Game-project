@@ -13,6 +13,8 @@ return new class extends Migration
     {
         Schema::create('toppings', function (Blueprint $table) {
             $table->id();
+            $table->string('tname');
+            $table->string('tprice');
             $table->timestamps();
         });
     }

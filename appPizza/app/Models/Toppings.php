@@ -13,6 +13,5 @@ class Toppings extends Model
         "id",
         "tname",
         "tprice",
-        "timage",
     ];
 }
