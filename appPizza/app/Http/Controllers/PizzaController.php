@@ -11,10 +11,11 @@ use PhpParser\Node\Stmt\If_;
 class PizzaController extends Controller
 {
     //
-    public function home(){
+    public function home()
+    {
         $pizzas = Pizza::all();
         $toppings = Toppings::all();
-        return view("webpage.Pizza",["pizzas" => $pizzas,"toppings"=> $toppings]);
+        return view("webpage.Pizza", ["pizzas" => $pizzas, "toppings" => $toppings]);
     }
 
     public function form($id)
@@ -22,7 +23,8 @@ class PizzaController extends Controller
         $url = $id;
         return view("webpage.Add");
     }
-    public function add($id){
+    public function add($id)
+    {
         // dd($id); this line if u want to show the data or what ever on the web page
         $add_pizza = new Pizza;
         $add_topping = new Toppings;
@@ -42,8 +44,8 @@ class PizzaController extends Controller
             return redirect()->back();
         }
         // }
-       
+
         // error_log(request('pizzaPrice'));
-       
+
     }
 }
