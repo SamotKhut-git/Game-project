@@ -1,0 +1,32 @@
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: xx-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.header {
+
+	color: hsl(208, 67%, 50%);
+	text-align: center;
+}
+
+.playerButton {
+	border: 2px hsl(211, 70%, 65%) solid;
+	font-size: xx-large;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 10px;
+	background-color: rgb(102, 162, 214);
+	transition: background-color 0.5s ease;
+}
+
+.playerButton:hover {
+	background-color: rgb(205, 194, 217);
+}
+
+#resultDisplay {
+	font-size: 70px;
+}
