@@ -1,0 +1,10 @@
+D:\Desktop-APP\Matching-Game\Matching-Game\bin\Debug\Matching-Game.exe.config
+D:\Desktop-APP\Matching-Game\Matching-Game\bin\Debug\Matching-Game.exe
+D:\Desktop-APP\Matching-Game\Matching-Game\bin\Debug\Matching-Game.pdb
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching-Game.csproj.AssemblyReference.cache
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching_Game.Form1.resources
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching_Game.Properties.Resources.resources
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching-Game.csproj.GenerateResource.cache
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching-Game.csproj.CoreCompileInputs.cache
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching-Game.exe
+D:\Desktop-APP\Matching-Game\Matching-Game\obj\Debug\Matching-Game.pdb
