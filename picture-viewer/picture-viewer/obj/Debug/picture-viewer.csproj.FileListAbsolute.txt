@@ -1,0 +1,10 @@
+D:\Desktop-APP\picture-viewer\picture-viewer\bin\Debug\picture-viewer.exe.config
+D:\Desktop-APP\picture-viewer\picture-viewer\bin\Debug\picture-viewer.exe
+D:\Desktop-APP\picture-viewer\picture-viewer\bin\Debug\picture-viewer.pdb
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture-viewer.csproj.AssemblyReference.cache
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture_viewer.Form1.resources
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture_viewer.Properties.Resources.resources
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture-viewer.csproj.GenerateResource.cache
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture-viewer.csproj.CoreCompileInputs.cache
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture-viewer.exe
+D:\Desktop-APP\picture-viewer\picture-viewer\obj\Debug\picture-viewer.pdb

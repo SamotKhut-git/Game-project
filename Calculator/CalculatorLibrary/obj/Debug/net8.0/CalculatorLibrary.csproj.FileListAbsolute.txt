@@ -1,0 +1,12 @@
+D:\Desktop-APP\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+D:\Desktop-APP\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\Desktop-APP\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+D:\Desktop-APP\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache

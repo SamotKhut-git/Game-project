@@ -1,0 +1,10 @@
+D:\Desktop-APP\Math-quiz\Math-quiz\bin\Release\Math-quiz.exe.config
+D:\Desktop-APP\Math-quiz\Math-quiz\bin\Release\Math-quiz.exe
+D:\Desktop-APP\Math-quiz\Math-quiz\bin\Release\Math-quiz.pdb
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math-quiz.csproj.AssemblyReference.cache
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math_quiz.Form1.resources
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math_quiz.Properties.Resources.resources
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math-quiz.csproj.GenerateResource.cache
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math-quiz.csproj.CoreCompileInputs.cache
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math-quiz.exe
+D:\Desktop-APP\Math-quiz\Math-quiz\obj\Release\Math-quiz.pdb

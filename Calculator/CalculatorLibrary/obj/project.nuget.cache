@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3bCazU1AJgHP4fvJaBAi1REaFMtm3I8AdEqwpD/qXoXUL4dTFtW8SzWwEVL8Ha7IFfBDz77M7Z5TKMA6UJ37Q==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop-APP\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus VivoBook Pro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
